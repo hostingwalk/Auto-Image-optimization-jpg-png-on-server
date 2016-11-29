@@ -1,5 +1,5 @@
-# Auto-resize-jpg-png-on-server
-Auto resize JPG &amp; PNG images on a Linux system
+# Auto-Image optimization-jpg-png-on-server
+Auto Image optimization JPG &amp; PNG images on a Linux system
 
 # Installguide / Depencies
 - yum install epel-release -y
